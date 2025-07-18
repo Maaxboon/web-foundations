@@ -17,8 +17,8 @@ print(bicycles[3]) # specialized
 
 # Python has a special syntax for accessing the last element in a list. By asking for the item at index -1, Python always returns the last item in the list:
 
-print(bicycles[-1])
+print(bicycles[-1]) #specialized
 
 # Using individual values from a list
 message = "My first bicycle was a " + bicycles[0].title() + "."
-print(message)
+print(message) # My first bicycle was a Trek.
