@@ -13,4 +13,4 @@ if requested_topping != 'anchovies':
     # Because the value of requested_topping is not 'anchovies', the print statement is executed:
     print("Hold the anchovies!")
 
-# Note:  Most of the conditional expressions you write will test for equality, but sometimes you’ll find it more efficient to test for inequality.
+# Note:  Most of the conditional expressions you write will test for equality, but sometimes you’ll find it more efficient to test for inequality.s
