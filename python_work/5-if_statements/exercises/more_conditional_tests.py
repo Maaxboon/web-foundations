@@ -35,17 +35,19 @@ print(captains_alu >= captains_ala)
 print(captains_alu <= captains_ala)
 
 # keyword tests
-x = "foo"
-y = ""
 # and
-if len(x) == 0 and len(y) == 0:
-    print("Both strings are empty!")
-else:
-    print("At least one of the strings is nonempty.")
+alu_owner = 'swaniker'
+alche_owner = 'swaniker'
+print("Fred Swaniker in the owner of ALU and ALCHE:")
+print(alu_owner == 'swaniker') and (alche_owner == 'swaniker')
 
 # or
-team_1 = 'Kigali'
-team_2 = 'Bumbogo'
-print(team_1 or team_2)
+ 
 # test whether an item is in a list
+walanguzi = ['Maxtoshi', 'Poisedon', 'Phil', 'Ghost']
+print("Is 'Maxtoshi' in walanguzi? I predict True.")
+print('Maxtoshi' in walanguzi) # True
+
 # test whether an item is not in a list
+print("Is Maxtoshi not in walanguzi? I predict False")
+print('Maxtoshi' not in walanguzi) # False
