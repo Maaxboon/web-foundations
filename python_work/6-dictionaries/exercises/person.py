@@ -9,7 +9,7 @@ person = {
     'city' : 'Miami',
 }
 
-print(person['first_name'])
-print(person['last_name'])
-print(person['age'])
-print(person['city'])
+print(f"First name: {person['first_name']}")
+print(f"Last name: {person['last_name']}")
+print(f"Age: {person['age']}")
+print(f"City: {person['city']}")
