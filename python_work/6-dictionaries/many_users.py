@@ -11,8 +11,8 @@ users = {
         'location': 'paris',
     },
     'maxtoshi' : {
-        'first' : 'maxwel',
-        'last': 'toshi',
+        'first' : 'maxtoshi',
+        'last': 'okamoto',
         'location': 'bumbogo',
     },
 }
