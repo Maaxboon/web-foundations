@@ -20,4 +20,4 @@ while True:
     # over 12: 15
     else:
         print("\nYou're ticket is $15")
-        break
+        break 
